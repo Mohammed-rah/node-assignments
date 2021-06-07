@@ -12,9 +12,4 @@ app.use(loginRoute);
 
 app.use(messageRoute);
 
-
-
-
-
-
 app.listen(4000);
